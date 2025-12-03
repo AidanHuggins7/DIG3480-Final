@@ -346,6 +346,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 791913851}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -438,6 +442,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1857451820}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -530,6 +538,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2110429540}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -604,6 +616,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &94303743 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1636091570}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &143010343
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,6 +687,12 @@ Transform:
   - {fileID: 600945608}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &168181617 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2035773627}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &267183912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -973,7 +997,7 @@ PrefabInstance:
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.039
+      value: 2.0894873
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
@@ -983,12 +1007,12 @@ PrefabInstance:
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 9.633
+      value: 8.750394
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.14329143
+      value: -0.70468616
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
@@ -998,7 +1022,7 @@ PrefabInstance:
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.9896805
+      value: 0.70951915
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
@@ -1013,7 +1037,7 @@ PrefabInstance:
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 196.477
+      value: 269.608
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
@@ -1024,6 +1048,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1845473384}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -1599,6 +1627,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1968644199}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &791913848 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 44010233}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &791913851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791913848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1001 &800207788
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1955,10 +2003,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gargoyle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4615024781461821281, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.558
+      value: -1.29
       objectReference: {fileID: 0}
     - target: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
@@ -2578,6 +2631,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1366446534}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -2670,6 +2727,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1178894579}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -2701,6 +2762,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Observer
   player: {fileID: 379527304}
   gameEnding: {fileID: 281306899}
+--- !u!1 &1178894576 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1168688061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1178894579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178894576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1 &1208627195 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4844063568138903571, guid: b60627a01e5104848b765001d0c27696,
@@ -2864,6 +2945,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1968644199}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1366446531 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1166413350}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1366446534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1366446531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1001 &1433108513
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3171,6 +3272,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1605803558 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 74147367}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1632769390 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 378511637}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1636091570
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3238,6 +3351,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1636091578}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -3268,6 +3385,26 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
     type: 3}
   m_PrefabInstance: {fileID: 1636091570}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1636091578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94303743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
+--- !u!1 &1639240467 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 6385943298734459053}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1665336114
 GameObject:
@@ -3550,12 +3687,40 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 378511637}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1845473384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1632769390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!4 &1857451817 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7442986919414578831, guid: 81828b38c21c88746b0f69dd63306ac1,
     type: 3}
   m_PrefabInstance: {fileID: 74147367}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1857451820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605803558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1001 &1919203862
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3832,6 +3997,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2035773635}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
@@ -3863,6 +4032,20 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2035773627}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2035773635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168181617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1001 &2065379827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4142,6 +4325,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1968644199}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2110429537 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+    type: 3}
+  m_PrefabInstance: {fileID: 82450909}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2110429540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2110429537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1 &2125422406
 GameObject:
   m_ObjectHideFlags: 0
@@ -4179,6 +4382,20 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6385943298734459053}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2284618871434935224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639240467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edf0a65f8f1d2049b101bc0c074053a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GargoyleRotator
+  interval: 0.05
+  rotationAmount: 2
 --- !u!1001 &6385943298734459053
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4246,6 +4463,10 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1653395370242907021, guid: 81828b38c21c88746b0f69dd63306ac1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2284618871434935224}
     - targetCorrespondingSourceObject: {fileID: 3013103884298604631, guid: 81828b38c21c88746b0f69dd63306ac1,
         type: 3}
       insertIndex: -1
