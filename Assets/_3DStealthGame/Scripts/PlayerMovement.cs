@@ -17,14 +17,39 @@ public class PlayerMovement : MonoBehaviour
     Animator m_Animator;
     AudioSource m_AudioSource;
 
+    public GameObject shieldPrefab;
+    public GameObject Player;
+    public bool hasUsedShield = true;
     void Start ()
     {
         m_Rigidbody = GetComponent<Rigidbody> ();
         m_Animator = GetComponent<Animator> ();
         m_AudioSource = GetComponent<AudioSource> ();
         MoveAction.Enable();
+        hasUsedShield = true;
     }
-
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Shield")
+        {
+            hasUsedShield = false;
+            shieldPrefab.SetActive(true);
+            Destroy(other.gameObject);
+            InvokeRepeating("CreateShieldParticle", 0f, 1.5f);
+        }
+        if (hasUsedShield == false && other.tag == "Ghost")
+        {
+            Destroy(other.transform.parent.gameObject);
+            Destroy(other.gameObject);
+            shieldPrefab.SetActive(false);
+            hasUsedShield = true;
+            CancelInvoke("CreateShieldParticle");
+        }
+    }
+    void CreateShieldParticle()
+    {
+        Instantiate(shieldPrefab, Player.transform.position + new Vector3(0, 0.7f, 0), Quaternion.identity);
+    }
     void FixedUpdate ()
     {
         var pos = MoveAction.ReadValue<Vector3>();
